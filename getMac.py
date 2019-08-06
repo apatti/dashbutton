@@ -5,7 +5,7 @@ import time
 
 hueData = {
     "ip":"192.168.1.4",
-    "userId":"FnnXGbJozv4kg-7-zTt9KxHeClUoWQtACMyjARpp"
+    "userId":""
     }
 
 lastUpdateTime=0
